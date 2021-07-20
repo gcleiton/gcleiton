@@ -1,12 +1,15 @@
 # Hey there! I'm Gabriel Cleiton :call_me_hand: 
 
-## About me
+## 👨‍🦱 About me
+<p align="center">
+  <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" alt="gif" width="300" height="150" />
+</p>
 
-- 🎓&nbsp; I like to help people, I believe the benefits are mutual
+- 🤝&nbsp; I like to help people, I believe the benefits are mutual
 - 💼&nbsp; Scholarship student from the Software Development Sector - NDS
 - 🎓&nbsp; Studying computer science at IFCE Campus Maracanaú
 
-## Skills
+## 🚀 Skills
 
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
@@ -37,3 +40,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache&logoColor=red)
+
+## 🌎 Follow me
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)]()
+[![Steam](https://img.shields.io/badge/-Steam-black?style=flat&logo=steam&logoColor=white)]()
+
+
+<hr/>
+<h4 align="center"> Thanks for Visiting! 🙋‍♂️ </h4>
+<hr/>
